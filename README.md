@@ -1,5 +1,9 @@
 ## Hi, I'm Vipin Gangwar
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Web+Developer;Data+Structure+and+Algorithm" />
+</p>
+
 # 💫 About Me:
 Welcome to my profile! I'm Vipin Gangwar, a B.Tech Computer Science student focused on full-stack web development. I primarily work with the MERN stack and have experience building frontend interfaces and backend APIs. Alongside development, I actively practice Data Structure and Algorithms in Java to strengthen my problem-solving skills. My current goal is to build practical, real-world projects and continuously improve my backend architecture and coding standards to prepare for software development roles. <br>
 
