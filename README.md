@@ -63,16 +63,6 @@ Welcome to my profile! I'm Vipin Gangwar, a B.Tech Computer Science student focu
 ---
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=Vipin6357&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin6357&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vipin6357&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vipin6357&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 <p align="center">
   <b> Designed & Engineered by Vipin Gangwar © 2026 </b>
